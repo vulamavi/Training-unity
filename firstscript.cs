@@ -7,12 +7,13 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("created by vuld");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("created by vuld");
+
     }
 }

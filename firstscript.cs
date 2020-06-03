@@ -11,6 +11,7 @@ public class NewBehaviourScript : MonoBehaviour
    
         Debug.Log("created by vuld");
         Debug.Log("Luong test");
+    	Debug.Log("log by luong");
     }
 
     // Update is called once per frame

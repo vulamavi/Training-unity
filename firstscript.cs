@@ -13,6 +13,7 @@ public class NewBehaviourScript : MonoBehaviour
         Debug.Log("Luong test");
 	Debug.Log("Sinh test 2");
         Debug.Log("LuongND");
+	Debug.Log("Luong test ngay 6 /4 lan 1");
 
     }
 
